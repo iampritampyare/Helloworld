@@ -1,4 +1,5 @@
  Hi, I'm Pritam 👋
+ 
 🚀 Backend Developer | Python | Flask | SQL | Machine Learning  
 💡 Passionate about solving real-world problems with code  
 📈 Interested in stock market prediction & data analysis  
@@ -17,4 +18,4 @@
 - Stock Market Predictor – ML-based stock trend forecasting  
 - Amazon Sales Insights – Data analytics on sales reports  
 
-🔗 Check out my work: [GitHub Profile](https://github.com/iampritampyare) | [LeetCode](https://leetcode.com/u/iampritampyare/) | [GeeksforGeeks](https://www.geeksforgeeks.org/user/iampritampyare/)
+🔗 Check out my work: [GitHub Profile](https://github.com/iampritampyare) | [LeetCode](https://leetcode.com/u/iampritampyare/) | [X](https://x.com/iampritampyare)
